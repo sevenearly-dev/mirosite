@@ -8,9 +8,6 @@ tags:
   - 挫折
 authors:
   - default
-images:
-  - >-
-    https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/688b5c542ed54d34ac4bb4117e9c040d~tplv-k3u1fbpfcp-watermark.image?
 draft: false
 summary: >-
   在处理压力和挫折时，以下是我的一些建议：

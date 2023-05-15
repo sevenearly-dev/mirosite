@@ -9,9 +9,6 @@ tags:
   - 育儿知识
 authors:
   - default
-images:
-  - >-
-    https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/688b5c542ed54d34ac4bb4117e9c040d~tplv-k3u1fbpfcp-watermark.image?
 draft: false
 summary: >-
   为了让孩子在心理上变得更强大，我们需要提供一个积极、健康的环境，包括和谐的家庭环境、适度的教育压力、充足的社交互动以及丰富的应对策略。我们需要认识到孩子的脆弱性并不是他们的错，而是我们需要调整和改善的环境因素
