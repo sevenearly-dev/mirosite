@@ -3,8 +3,9 @@ title: 如何处理压力和挫折？
 date: '2023-05-12'
 lastmod: '2023-05-12'
 tags:
-  - tag1
-  - tag2
+  - 心理咨询
+  - 压力
+  - 挫折
 authors:
   - default
 images:
