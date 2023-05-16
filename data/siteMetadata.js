@@ -1,8 +1,8 @@
 const siteMetadata = {
-  title: '飞入百科',
+  title: 'Miropedia',
   author: 'mmm',
-  headerTitle: '飞入百科',
-  description: '飞入百科。',
+  headerTitle: 'Miropedia',
+  description: 'Miropedia',
   language: 'en-us',
   theme: 'system', // system, dark or light
   siteUrl: 'https://q.fillume.com',
@@ -17,7 +17,7 @@ const siteMetadata = {
   juejin: 'https://aaa',
   zhihu: 'https://aaa',
   locale: 'zh-CN',
-  welcome: '飞入百科',
+  welcome: 'Miropedia',
   analytics: {
     //如果要使用分析提供程序，则必须将其添加到。
     //`next.config.js`文件中的内容安全策略。
