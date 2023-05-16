@@ -1,6 +1,6 @@
 const siteMetadata = {
   title: 'Miropedia',
-  author: 'mmm',
+  author: 'Miropedia',
   headerTitle: 'Miropedia',
   description: 'Miropedia',
   language: 'en-us',
