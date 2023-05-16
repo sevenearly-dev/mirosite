@@ -1,8 +1,8 @@
 const siteMetadata = {
-  title: '问道 | 问答社区',
+  title: '飞入百科',
   author: 'mmm',
-  headerTitle: '问道',
-  description: '问答百科。',
+  headerTitle: '飞入百科',
+  description: '飞入百科。',
   language: 'en-us',
   theme: 'system', // system, dark or light
   siteUrl: 'https://q.fillume.com',
@@ -17,7 +17,7 @@ const siteMetadata = {
   juejin: 'https://aaa',
   zhihu: 'https://aaa',
   locale: 'zh-CN',
-  welcome: '问道 | 问答百科',
+  welcome: '飞入百科',
   analytics: {
     //如果要使用分析提供程序，则必须将其添加到。
     //`next.config.js`文件中的内容安全策略。
